@@ -1,0 +1,4 @@
+﻿cl : linha de comando  warning D9025: substituindo '/sdl' com '/GS-'
+  seh.cpp
+C:\Users\lucca\OneDrive\Documentos\Projetos\Universidade Hacker\Expl. de binarios em C\seh\seh.cpp(9,9): warning C4013: 'gets' indefinido; assumindo extern retornando int
+  seh.vcxproj -> C:\Users\lucca\OneDrive\Documentos\Projetos\Universidade Hacker\Expl. de binarios em C\seh\x64\Debug\seh.exe
